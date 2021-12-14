@@ -9,4 +9,6 @@ h1 {
   width: fit-content;
   color: white;
   text-align: center;
+  border-radius: 10px;
+  padding: 20px;
 }
