@@ -1,3 +1,3 @@
-# **secret-santa**
+# **Secret-santa**
 
 Secret Santa
