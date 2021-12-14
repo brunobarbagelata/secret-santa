@@ -1,3 +1,3 @@
 # **Secret-santa**
 
-Secret Santa
+This is _my_ Secret Santa app
