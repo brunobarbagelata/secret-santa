@@ -12,3 +12,8 @@ h1 {
   border-radius: 10px;
   padding: 20px;
 }
+
+h1:hover {
+  color: red;
+  cursor: pointer;
+}
